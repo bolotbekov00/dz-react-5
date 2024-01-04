@@ -1,0 +1,15 @@
+.market{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.block-product{
+    width: 350px;
+    height: 500px;
+    padding: 5px;
+    border: #c2dbee 1px solid;
+}
+.img-product{
+    width: 200px;
+    height: 250px;
+}
